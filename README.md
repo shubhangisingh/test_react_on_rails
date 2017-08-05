@@ -1,25 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails  version 5.1.0
 
-Things you may want to cover:
+Dependencies - get the node version 6 or above on your system
 
-* Ruby version
+Running the project-> foreman start -f Procfile.dev
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# test_react_on_rails
